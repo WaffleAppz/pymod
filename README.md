@@ -1,0 +1,3 @@
+# startermodforpython
+<hr>
+python
